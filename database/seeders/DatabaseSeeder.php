@@ -15,7 +15,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        Contact::factory(10)->create();
-        PhoneMail::factory(10)->create();
+        Contact::factory(15)->create();
+        PhoneMail::factory(15)->create();
     }
 }
