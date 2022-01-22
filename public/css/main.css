@@ -1,0 +1,72 @@
+.table {
+    margin-top: 20px;
+}
+
+.pagination-links {
+    margin: 10px 10px 10px 0;
+}
+
+.form {
+    display: flex;
+    justify-content: space-around;
+    max-width: 80vw;
+}
+
+.flex1,
+.flex2,
+.flex3,
+.flex4 {
+    width: 40%;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.flex1 > label,
+.flex2 > label,
+.flex3 > label,
+.flex4 > label {
+    margin-top: 15px;
+}
+
+.form-all > button {
+    margin-left: 47px;
+    margin-top: 20px;
+    padding: 1vh 3vw;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin-top: 5px;
+    transition: 0.3s;
+}
+
+.nav-item:hover {
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.bold-span {
+    font-weight: bolder;
+}
+
+textarea {
+    resize: none;
+}
+
+.neu {
+    border-radius: 2px;
+
+    background: #f4f6f9;
+    box-shadow: 7px 7px 6px #cbcccf, -7px -7px 6px #ffffff;
+}
+
+.neu:hover {
+    background: #f4f6f9;
+    box-shadow: inset 7px 7px 6px #cbcccf, inset -7px -7px 6px #ffffff;
+}
