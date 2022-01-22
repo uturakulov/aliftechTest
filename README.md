@@ -8,7 +8,7 @@ This is a test task for Aliftech company. Functionalities:
 -   API CRUD of contact details
 -   Search of a contact
 
-Additional note - please run
+Additional note:
 
 ```
 -   clone repository
