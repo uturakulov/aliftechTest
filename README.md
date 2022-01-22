@@ -11,7 +11,6 @@ This is a test task for Aliftech company. Functionalities:
 Additional note - please run
 
 ```
--   php artisan migrate --seed
 -   clone repository
 -   run composer install
 -   run composer update
